@@ -1,0 +1,52 @@
+div #monthly-div{
+    height: 20px;
+    width: 38px;
+    left: 675px;
+    top: 2799px;
+    border-radius: 66px;
+    background-color: #8828FF;
+
+
+}
+
+div #header-text{
+    height: 116px;
+width: 436px;
+left: 120px;
+top: 3766px;
+border-radius: nullpx;
+
+font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 120%;
+/* or 58px */
+
+text-transform: capitalize;
+color:rgba(32, 24, 78, 1);
+;
+
+}
+
+div #para-text{
+    height: 58px;
+width: 382px;
+left: 636px;
+top: 3795px;
+border-radius: nullpx;
+color: rgba(102, 102, 102, 1);
+font-family: 'Satoshi';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 160%;
+
+}
+div #btn-primary{
+    font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 23px;
+}
